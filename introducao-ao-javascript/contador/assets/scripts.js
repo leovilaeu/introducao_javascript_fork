@@ -12,6 +12,9 @@ function decrement() {
 	CURRENT_NUMBER.innerHTML = count;
 }
 
+document.getElementsByClassName("subtrair")
+addEventListener('click', decrement);
+
 function test() {
 	kdowkdpo;
 }
